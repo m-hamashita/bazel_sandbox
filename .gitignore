@@ -1,0 +1,5 @@
+# Auto-generated stuff by Bazel.
+bazel-bin
+bazel-out
+bazel-testlogs
+bazel-bazel_sandbox
